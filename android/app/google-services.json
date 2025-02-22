@@ -1,0 +1,84 @@
+{
+  "project_info": {
+    "project_number": "360634499274",
+    "project_id": "warhammer-dnd",
+    "storage_bucket": "warhammer-dnd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:360634499274:android:2c37b9bc649eab4c427433",
+        "android_client_info": {
+          "package_name": "games.workshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "360634499274-te4qlus7l15o32jvopeq33k5cu9qmmq5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "games.workshop",
+            "certificate_hash": "032c9ef6b09ba2c2566d2bf2201165f3a4973420"
+          }
+        },
+        {
+          "client_id": "360634499274-cqjbk9q9ru8r2931t4das62lemrkqca1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDD8jfg0paY0eHY2jUyVputTurFhU81ZsE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "360634499274-cqjbk9q9ru8r2931t4das62lemrkqca1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:360634499274:android:32fc173ba1753bc4427433",
+        "android_client_info": {
+          "package_name": "test.test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "360634499274-7s25r2asvfo2ppkvo1mfu39omlq24qdb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "test.test",
+            "certificate_hash": "032c9ef6b09ba2c2566d2bf2201165f3a4973420"
+          }
+        },
+        {
+          "client_id": "360634499274-cqjbk9q9ru8r2931t4das62lemrkqca1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDD8jfg0paY0eHY2jUyVputTurFhU81ZsE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "360634499274-cqjbk9q9ru8r2931t4das62lemrkqca1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

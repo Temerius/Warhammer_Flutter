@@ -1,0 +1,2 @@
+/home/lord_temerius/AndroidStudioProjects/warhammer/android/app/.cxx/Debug/l3w2f5p6/armeabi-v7a/CMakeFiles/edit_cache.dir
+/home/lord_temerius/AndroidStudioProjects/warhammer/android/app/.cxx/Debug/l3w2f5p6/armeabi-v7a/CMakeFiles/rebuild_cache.dir
