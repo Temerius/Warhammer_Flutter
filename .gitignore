@@ -42,3 +42,10 @@ app.*.map.json
 /android/app/profile
 /android/app/release
 /android/app/google_services.json
+/ios
+/linux
+/.idea
+/macos
+/test
+/web
+/windows
