@@ -43,6 +43,7 @@ app.*.map.json
 /android/app/release
 /android/app/google_services.json
 /android/app/.cxx
+/android/build/reports/problems/problems-report.html
 /ios
 /linux
 /.idea
