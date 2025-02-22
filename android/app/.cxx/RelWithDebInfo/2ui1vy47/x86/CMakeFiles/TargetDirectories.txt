@@ -1,2 +1,0 @@
-/home/lord_temerius/AndroidStudioProjects/warhammer/android/app/.cxx/RelWithDebInfo/2ui1vy47/x86/CMakeFiles/edit_cache.dir
-/home/lord_temerius/AndroidStudioProjects/warhammer/android/app/.cxx/RelWithDebInfo/2ui1vy47/x86/CMakeFiles/rebuild_cache.dir

@@ -1,1 +1,0 @@
-/home/lord_temerius/AndroidStudioProjects/warhammer/build/app/intermediates/cxx/RelWithDebInfo/2ui1vy47/obj/x86
